@@ -95,16 +95,22 @@ Production-oriented SQL agent using hybrid architecture.
 
 
 User Question
+
 ↓
 LLM (Tool-aware)
+
 ↓
 Structured Tool Call (JSON)
+
 ↓
 Safety Layer (Query Validation)
+
 ↓
 SQLToolkit Execution
+
 ↓
 Database
+
 ↓
 Final Natural Language Answer
 
