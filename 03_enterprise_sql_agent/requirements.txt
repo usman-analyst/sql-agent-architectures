@@ -1,0 +1,16 @@
+# Core LangChain 1.x ecosystem
+langchain==1.2.10
+langchain-core==1.2.14
+langchain-community==0.4.1
+langsmith==0.7.6
+
+# OpenAI integration (1.x compatible)
+langchain-openai>=0.3.0
+
+# OpenAI SDK
+openai>=1.30.0
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+tqdm>=4.66.0
