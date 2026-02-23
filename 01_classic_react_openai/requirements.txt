@@ -1,0 +1,3 @@
+pip install langchain==0.3.4
+pip install langchain-community==0.3.3. # for integrations (tools, agents, SQL utilities)
+pip install langchain-openai==0.2.2 # wrapper for OpenAI models
